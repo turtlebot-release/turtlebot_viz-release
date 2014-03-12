@@ -1,0 +1,12 @@
+Source: ros-hydro-turtlebot-interactive-markers
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@yujinrobot.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-interactive-markers, ros-hydro-roscpp, ros-hydro-visualization-msgs
+Homepage: http://ros.org/wiki/turtlebot_interactive_markers
+Standards-Version: 3.9.2
+
+Package: ros-hydro-turtlebot-interactive-markers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-interactive-markers, ros-hydro-roscpp, ros-hydro-turtlebot-bringup, ros-hydro-visualization-msgs
+Description: Interactive control for the TurtleBot using RViz and interactive markers
