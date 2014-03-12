@@ -2,6 +2,9 @@
 Changelog for package turtlebot_dashboard
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.2.3 (2014-03-12)
+------------------
+
 2.2.0 (2013-08-30)
 ------------------
 * Add bugtracker and repo info URLs.
