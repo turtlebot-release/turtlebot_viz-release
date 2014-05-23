@@ -1,3 +1,26 @@
+## turtlebot_viz (hydro) - 2.2.3-1
+
+The packages in the `turtlebot_viz` repository were released into the `hydro` distro by running `/usr/bin/bloom-release turtlebot_viz -r hydro -t hydro` on `Fri, 23 May 2014 02:30:18 -0000`
+
+These packages were released:
+- `turtlebot_dashboard`
+- `turtlebot_interactive_markers`
+- `turtlebot_rviz_launchers`
+- `turtlebot_viz`
+
+Version of package(s) in repository `turtlebot_viz`:
+- rosdistro version: `2.2.3-0`
+- old version: `2.2.3-0`
+- new version: `2.2.3-1`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## turtlebot_viz (hydro) - 2.2.3-0
 
 User `jihoonl@whoola` released the packages in the `turtlebot_viz` repository into the `hydro` distro by running `/usr/bin/bloom-release turtlebot_viz --track hydro --rosdistro hydro` on `Wed, 12 Mar 2014 06:34:26 -0000`
